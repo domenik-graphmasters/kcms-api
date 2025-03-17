@@ -1,0 +1,14 @@
+{
+  "mod_intranet_chargierkalender": 3.0,
+  "mod_intranet_reservierungen": 3.0,
+  "mod_intranet_export": 3.0,
+  "mod_intranet_zipfelranking": 3.0,
+  "mod_intranet_log": 2.0,
+  "mod_intranet_download": 4.0,
+  "mod_internet_home": 4.0,
+  "mod_intranet_news": 3.0,
+  "mod_internet_semesterprogramm": 4.0,
+  "mod_internet_json": 2.0,
+  "mod_intranet_rundbrief": 4.0,
+  "mod_internet_kontakt": 4.0
+}
